@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Home"
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/baseline_home_24"
+        />
+    <item
+        android:title="Feed"
+        android:id="@+id/feedFragment"
+        android:icon="@drawable/baseline_smart_display_24"
+        />
+    <item
+        android:title="Official Store"
+        android:id="@+id/officialStoreFragment"
+        android:icon="@drawable/baseline_check_circle_24"
+        />
+    <item
+        android:title="Wishlish"
+        android:id="@+id/whishlistFragment"
+        android:icon="@mipmap/ic_launcher"
+        />
+    <item
+        android:title="Transaction"
+        android:id="@+id/transactionFragment"
+        android:icon="@mipmap/ic_launcher"
+        />
+</menu>
